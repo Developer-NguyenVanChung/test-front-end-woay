@@ -12,7 +12,7 @@ const Hero = () => {
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry.
         </p>
-        <Button />
+        <Button text="Get Started" />
       </IntroduceStyled>
     </HeroStyled>
   );
