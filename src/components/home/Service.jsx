@@ -9,6 +9,7 @@ const Service = () => {
       <div>
         <p>Interested in our Services?</p>
         <Button
+          text="Let’s Talk"
           width="272px"
           height="74px"
           rounded="0"
